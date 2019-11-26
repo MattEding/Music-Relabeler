@@ -1,0 +1,6 @@
+beautifulsoup4
+html5lib
+jupyter
+lxml
+pandas
+scikit-learn
